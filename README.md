@@ -79,7 +79,7 @@ MORE = 1085<br>
 MONEY = 10652
 
 ## PROGRAM: 
-~~
+~~~
 # -*- coding: utf-8 -*-
 """CSP.ipynb
 
