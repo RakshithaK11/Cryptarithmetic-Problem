@@ -120,5 +120,8 @@ if solution:
 else:
     print("No solution found.")
 ~~~
+## OUTPUT:
+![image](https://github.com/user-attachments/assets/9807febe-700a-493e-bfe6-81d1e7a98932)
+
 ## RESULT:
 Thus a Cryptarithmetic Problem was solved using Python successfully
